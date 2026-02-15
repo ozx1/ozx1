@@ -1,6 +1,5 @@
 # Hi 👋, I'm Omar
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ozx1&label=Profile views&color=0e75b6&style=flat" alt="ozx1" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
